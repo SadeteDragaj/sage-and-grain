@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "gluten-free",
+    "name": "Gluten-Free",
+    "h1": "Gluten-Free Recipes",
+    "meta_description": "Tested gluten-free recipes for every meal, labelled honestly: every ingredient qualifies, and oats are always certified gluten-free.",
+    "intro": "Every recipe here is gluten-free as written — no hidden flour, and oats only when they're certified gluten-free. Recipes that need one swap are marked “GF option”, so you always know where you stand.",
+    "match_diet": "gluten-free",
+    "collections": [
+      {"label": "Gluten-free breakfasts", "query": "diet=gluten-free&meal=breakfast"},
+      {"label": "Gluten-free dinners", "query": "diet=gluten-free&meal=dinner"},
+      {"label": "Gluten-free baking", "query": "diet=gluten-free&meal=dessert"},
+      {"label": "Gluten-free & vegan", "query": "diet=gluten-free&diet=vegan"}
+    ],
+    "guide_title": "Tips for cooking gluten-free at home",
+    "guide": [
+      {"title": "Read every label", "text": "Stock cubes, spice blends, soy sauce and baking powder can all contain wheat. Look for a gluten-free label rather than guessing."},
+      {"title": "Use certified oats", "text": "Oats are often processed alongside wheat. Only oats labelled certified gluten-free are safe for a gluten-free diet."},
+      {"title": "Bake with naturally gluten-free flours", "text": "Almond flour, buckwheat and oat flour bring flavour as well as structure — great in brownies, pancakes and muffins."},
+      {"title": "Keep things separate", "text": "Use a clean board, toaster and colander for gluten-free cooking if someone at your table has coeliac disease."}
+    ],
+    "faq": [
+      {"question": "Are oats gluten-free?", "answer": "Oats don't contain gluten, but most are contaminated with wheat during processing. Only certified gluten-free oats are safe, so our recipes say so explicitly."},
+      {"question": "What does “GF option” mean?", "answer": "The recipe becomes gluten-free with one swap, such as gluten-free bread or certified oats. The swap is listed next to the ingredient."},
+      {"question": "Is rice gluten-free?", "answer": "Yes, all plain rice is naturally gluten-free, including brown, basmati and glutinous rice."}
+    ],
+    "related": ["vegan", "healthy", "breakfast", "snacks-desserts"],
+    "tone": "quinoa"
+  },
+  {
+    "slug": "vegan",
+    "name": "Vegan",
+    "h1": "Vegan Recipes",
+    "meta_description": "Plant-based vegan recipes made from whole, everyday ingredients — tested at home, many of them gluten-free too.",
+    "intro": "Plant-based recipes made from whole, everyday ingredients — no hard-to-find substitutes. Every recipe here is fully vegan, and many are gluten-free too, so they work for mixed tables and weeknight cooking alike.",
+    "match_diet": "vegan",
+    "collections": [
+      {"label": "Vegan breakfasts", "query": "diet=vegan&meal=breakfast"},
+      {"label": "Quick vegan dinners", "query": "diet=vegan&meal=dinner&time=30"},
+      {"label": "Vegan & gluten-free", "query": "diet=vegan&diet=gluten-free"},
+      {"label": "Vegan under 15 minutes", "query": "diet=vegan&time=15"}
+    ],
+    "guide_title": "Tips for cooking vegan at home",
+    "guide": [
+      {"title": "Build every plate around a protein", "text": "Chickpeas, lentils, tofu and beans keep meals filling. Start with one and build the vegetables and grains around it."},
+      {"title": "Lean on pantry flavour", "text": "Toasted spices, tahini, miso, lemon and good olive oil add the depth that butter or cheese might bring elsewhere."},
+      {"title": "Use coconut milk and cashews for creaminess", "text": "Full-fat coconut milk works in curries and soups; blended soaked cashews make a neutral cream for pasta and sauces."},
+      {"title": "Check labels for hidden animal products", "text": "Stock cubes, some breads and certain sugars can contain dairy or egg. Our labels only go on recipes where every ingredient qualifies."}
+    ],
+    "faq": [
+      {"question": "How do vegans get enough protein?", "answer": "Legumes, tofu, tempeh, nuts, seeds and whole grains all add up. Our High-Protein label marks recipes with a protein-rich base."},
+      {"question": "Are all vegan recipes gluten-free?", "answer": "No. Bread, pasta, soy sauce and regular oats contain gluten. Look for the Gluten-Free label, or “GF option” when a swap is needed."},
+      {"question": "What can I use instead of eggs in baking?", "answer": "A flax egg (1 tbsp ground flaxseed plus 3 tbsp water) works in most muffins and pancakes. Mashed banana adds binding and sweetness."}
+    ],
+    "related": ["gluten-free", "healthy", "dinner", "breakfast"],
+    "tone": "green"
+  },
+  {
+    "slug": "healthy",
+    "name": "Healthy",
+    "h1": "Healthy Recipes",
+    "meta_description": "Healthy recipes built on whole foods: mostly plant-based, minimally processed and easy to cook on a weeknight.",
+    "intro": "Our healthy collection is built on whole foods: mostly plant-based, minimally processed and full of vegetables, legumes and whole grains. It's an editorial collection, not a diet claim — check each recipe's labels for gluten-free or vegan.",
+    "match_collection": "healthy",
+    "collections": [
+      {"label": "Healthy breakfasts", "query": "collection=healthy&meal=breakfast"},
+      {"label": "Healthy lunches", "query": "collection=healthy&meal=lunch"},
+      {"label": "Healthy dinners under 30 minutes", "query": "collection=healthy&meal=dinner&time=30"}
+    ],
+    "guide_title": "How we choose healthy recipes",
+    "guide": [
+      {"title": "Whole foods first", "text": "Vegetables, legumes, whole grains, nuts and seeds make up most of every plate."},
+      {"title": "Minimal processing", "text": "We cook from simple ingredients and keep ready-made sauces and refined sugar to a minimum."},
+      {"title": "Satisfying portions", "text": "Fibre and protein keep you full — no tiny servings or calorie counting."}
+    ],
+    "faq": [
+      {"question": "Is “healthy” a diet label?", "answer": "No. It's an editorial collection. For dietary needs, use the Gluten-Free, Vegan, Vegetarian, Dairy-Free or High-Protein labels."},
+      {"question": "Do you show nutrition information?", "answer": "Not yet. We'd rather show nothing than numbers we haven't checked carefully."},
+      {"question": "Are healthy recipes always vegan?", "answer": "Mostly plant-based, but some include eggs or cheese. Each recipe shows its diet labels."}
+    ],
+    "related": ["vegan", "gluten-free", "lunch", "dinner"],
+    "tone": "roast"
+  },
+  {
+    "slug": "breakfast",
+    "name": "Breakfast",
+    "h1": "Healthy Breakfast Recipes",
+    "meta_description": "Easy gluten-free, vegan and healthy breakfast recipes — from make-ahead overnight oats to 20-minute pancakes.",
+    "intro": "Breakfasts that are quick on weekdays and a little special at weekends. Many can be made the night before, and every one is clearly labelled for gluten-free and vegan diets.",
+    "match_meals": ["breakfast"],
+    "collections": [
+      {"label": "Vegan breakfasts", "query": "meal=breakfast&diet=vegan"},
+      {"label": "Gluten-free breakfasts", "query": "meal=breakfast&diet=gluten-free"},
+      {"label": "Breakfast in 15 minutes", "query": "meal=breakfast&time=15"}
+    ],
+    "guide_title": "Tips for easier breakfasts",
+    "guide": [
+      {"title": "Prep the night before", "text": "Overnight oats and pancake batter can be made ahead, so mornings are just assembly."},
+      {"title": "Add protein", "text": "Eggs, yogurt, nut butter or seeds help a breakfast last until lunch."},
+      {"title": "Keep ripe fruit on hand", "text": "Spotty bananas and frozen berries sweeten breakfasts without added sugar."}
+    ],
+    "faq": [
+      {"question": "Can I make overnight oats gluten-free?", "answer": "Yes — use certified gluten-free oats. That's why we mark the recipe “GF option”."},
+      {"question": "How long do overnight oats keep?", "answer": "Up to 3 days in the fridge. Add fresh fruit on the day."},
+      {"question": "Can pancakes be frozen?", "answer": "Yes. Layer with baking paper and freeze for up to 2 months; reheat in a toaster."}
+    ],
+    "related": ["lunch", "vegan", "gluten-free", "healthy"],
+    "tone": "pancakes"
+  },
+  {
+    "slug": "lunch",
+    "name": "Lunch",
+    "h1": "Healthy Lunch Recipes",
+    "meta_description": "Gluten-free and vegan lunch recipes that pack well — soups, grain bowls and salads.",
+    "intro": "Soups, grain bowls and salads that taste good on day two. These lunches pack well for work and most can be made in one batch on Sunday.",
+    "match_meals": ["lunch"],
+    "collections": [
+      {"label": "Vegan lunches", "query": "meal=lunch&diet=vegan"},
+      {"label": "Gluten-free lunches", "query": "meal=lunch&diet=gluten-free"}
+    ],
+    "guide_title": "Tips for lunches that travel",
+    "guide": [
+      {"title": "Dress at the last minute", "text": "Keep dressings in a separate jar so salads stay crisp."},
+      {"title": "Batch the base", "text": "Cook a pot of grains or soup at the weekend and vary the toppings each day."},
+      {"title": "Think in layers", "text": "Wet ingredients at the bottom, greens on top — then shake into a bowl."}
+    ],
+    "faq": [
+      {"question": "How long does lentil soup keep?", "answer": "Up to 4 days in the fridge or 3 months in the freezer."},
+      {"question": "Can I eat quinoa bowls cold?", "answer": "Yes — they're designed to be eaten cold or at room temperature."},
+      {"question": "Are your lunches gluten-free?", "answer": "Most are. Check the labels on each recipe card."}
+    ],
+    "related": ["dinner", "healthy", "vegan", "gluten-free"],
+    "tone": "lentil"
+  },
+  {
+    "slug": "dinner",
+    "name": "Dinner",
+    "h1": "Healthy Dinner Recipes",
+    "meta_description": "Weeknight gluten-free and vegan dinner recipes — curries, roasted vegetable salads and protein bowls.",
+    "intro": "Weeknight dinners that come together in under an hour, mostly from the pantry. Curries, roasted vegetables and protein-packed bowls — each one clearly labelled.",
+    "match_meals": ["dinner"],
+    "collections": [
+      {"label": "Quick dinners under 30 minutes", "query": "meal=dinner&time=30"},
+      {"label": "Vegan dinners", "query": "meal=dinner&diet=vegan"},
+      {"label": "High-protein dinners", "query": "meal=dinner&diet=high-protein"}
+    ],
+    "guide_title": "Tips for faster weeknight dinners",
+    "guide": [
+      {"title": "Start the slow bit first", "text": "Get onions, rice or a roasting tray going before you chop anything else."},
+      {"title": "Stock a flavour shelf", "text": "Canned chickpeas, coconut milk, tomatoes and spices make a dinner from nothing."},
+      {"title": "Cook once, eat twice", "text": "Curries and roasted vegetables are often better the next day."}
+    ],
+    "faq": [
+      {"question": "What's the quickest dinner here?", "answer": "The High-Protein Crispy Tofu Bowl takes 30 minutes; use the Under 30 min filter for more."},
+      {"question": "Can I freeze these dinners?", "answer": "Curries and soups freeze well. Each recipe has storage notes."},
+      {"question": "Are the dinners filling without meat?", "answer": "Yes — every dinner is built around legumes, tofu or whole grains."}
+    ],
+    "related": ["lunch", "vegan", "healthy", "gluten-free"],
+    "tone": "curry"
+  },
+  {
+    "slug": "snacks-desserts",
+    "name": "Snacks & Desserts",
+    "h1": "Healthy Snacks & Desserts",
+    "meta_description": "Gluten-free and vegan snacks and desserts — fudgy almond-flour brownies, no-bake energy bites and more.",
+    "intro": "Sweet things and small bites made with real ingredients — almond flour, dates, nut butters and dark chocolate. Treats that happen to be gluten-free or vegan, not compromises.",
+    "match_meals": ["snack", "dessert"],
+    "collections": [
+      {"label": "No-bake snacks", "query": "meal=snack"},
+      {"label": "Gluten-free desserts", "query": "meal=dessert&diet=gluten-free"}
+    ],
+    "guide_title": "Tips for better treats",
+    "guide": [
+      {"title": "Use naturally sweet ingredients", "text": "Dates, bananas and maple syrup sweeten with more flavour than plain sugar."},
+      {"title": "Chill before cutting", "text": "Brownies and bars cut cleanly after an hour in the fridge."},
+      {"title": "Make snacks in batches", "text": "Energy bites keep a week in the fridge and freeze for months."}
+    ],
+    "faq": [
+      {"question": "Are energy bites gluten-free?", "answer": "With certified gluten-free oats, yes — that's why they're marked “GF option”."},
+      {"question": "Why almond flour in brownies?", "answer": "It's naturally gluten-free and keeps brownies fudgy and moist."},
+      {"question": "Can I freeze brownies?", "answer": "Yes, individually wrapped, for up to 3 months."}
+    ],
+    "related": ["gluten-free", "vegan", "breakfast", "healthy"],
+    "tone": "brownies"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "Sage & Grain",
+  "tagline": "Gluten-free, vegan and healthy recipes — tested at home and labelled honestly.",
+  "author": "[Author name]",
+  "popular_searches": [
+    {"label": "chickpea curry", "href": "/recipes/vegan-chickpea-curry"},
+    {"label": "brownies", "href": "/recipes?q=brownies"},
+    {"label": "lentil soup", "href": "/recipes?q=lentil"}
+  ],
+  "featured": [
+    "vegan-chickpea-curry",
+    "mediterranean-quinoa-bowl",
+    "gluten-free-banana-oat-pancakes",
+    "high-protein-tofu-bowl",
+    "vegan-red-lentil-soup",
+    "roasted-vegetable-salad"
+  ],
+  "seasonal": {
+    "label": "Ingredient of the month · October",
+    "title": "Chickpeas",
+    "text": "Cheap, filling and naturally gluten-free, chickpeas carry a weeknight dinner as the evenings get cooler. Use canned for speed, or cook a big batch of dried ones on Sunday. They add plant protein to curries, salads and bowls alike.",
+    "image_alt": "A bowl of cooked chickpeas on a linen cloth",
+    "recipes": ["vegan-chickpea-curry", "roasted-vegetable-salad", "mediterranean-quinoa-bowl"],
+    "link_query": "q=chickpeas",
+    "link_label": "Browse all chickpea recipes"
+  }
+}

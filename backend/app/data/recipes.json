@@ -1,0 +1,498 @@
+[
+  {
+    "slug": "vegan-chickpea-curry",
+    "title": "Easy Vegan Chickpea Curry",
+    "description": "A creamy coconut and tomato curry that comes together in one pot.",
+    "intro": "This easy vegan chickpea curry is creamy, gently spiced and made from pantry staples in 35 minutes. It's naturally gluten-free and dairy-free, and it tastes even better the next day.",
+    "image": {"alt": "Easy vegan chickpea curry in a white bowl with basmati rice, spinach and fresh coriander"},
+    "meal": "dinner",
+    "diets": ["vegan", "gluten-free", "dairy-free"],
+    "collections": ["healthy"],
+    "cuisine": "Indian-inspired",
+    "difficulty": "easy",
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      {"qty": 1.0, "unit": "tbsp", "item": "olive oil"},
+      {"qty": 1.0, "item": "large onion", "note": "finely chopped"},
+      {"qty": 3.0, "item": "garlic cloves", "note": "minced"},
+      {"qty": 1.0, "unit": "tbsp", "item": "fresh ginger", "note": "grated"},
+      {"qty": 2.0, "unit": "tbsp", "item": "curry powder", "note": "labelled gluten-free"},
+      {"qty": 1.0, "unit": "tsp", "item": "ground cumin"},
+      {"qty": 0.5, "unit": "tsp", "item": "ground turmeric"},
+      {"qty": 400.0, "unit": "g", "item": "chopped tomatoes", "note": "1 can"},
+      {"qty": 400.0, "unit": "ml", "item": "full-fat coconut milk", "note": "1 can"},
+      {"qty": 480.0, "unit": "g", "item": "chickpeas", "note": "drained and rinsed (2 cans)"},
+      {"qty": 100.0, "unit": "g", "item": "baby spinach"},
+      {"qty": 1.0, "item": "lime", "note": "juiced"},
+      {"item": "Salt, to taste"},
+      {"item": "Fresh coriander and cooked rice, to serve"}
+    ],
+    "steps": [
+      {
+        "text": "Heat the oil in a large pan over medium heat. Add the onion with a pinch of salt and cook, stirring, until soft and golden.",
+        "timer_seconds": 480,
+        "uses": [0, 1],
+        "tip": "Don't rush the onions — gentle cooking builds most of the flavour.",
+        "timer_done": "The onion should be soft and golden. If not, give it a few more minutes."
+      },
+      {
+        "text": "Add the garlic and ginger and cook until fragrant.",
+        "timer_seconds": 60,
+        "uses": [2, 3],
+        "timer_done": "Fragrant? Move straight on so the garlic doesn't burn."
+      },
+      {
+        "text": "Stir in the curry powder, cumin and turmeric and toast for 30 seconds.",
+        "uses": [4, 5, 6],
+        "tip": "Keep stirring — spices burn quickly."
+      },
+      {
+        "text": "Add the tomatoes and simmer until slightly thickened.",
+        "timer_seconds": 300,
+        "uses": [7],
+        "timer_done": "The tomatoes should look slightly thicker, then move on."
+      },
+      {
+        "text": "Pour in the coconut milk, add the chickpeas and simmer uncovered, stirring now and then.",
+        "timer_seconds": 900,
+        "uses": [8, 9],
+        "timer_done": "Check the sauce has thickened, then move on."
+      },
+      {"text": "Stir in the spinach until just wilted, about 1 minute.", "uses": [10]},
+      {
+        "text": "Take the pan off the heat, add the lime juice and season with salt.",
+        "uses": [11, 12],
+        "tip": "Taste and adjust — a little more lime or salt makes a big difference."
+      },
+      {"text": "Serve over rice, topped with fresh coriander.", "uses": [13]}
+    ],
+    "article_html": "<h2>A weeknight curry from the pantry</h2><p>This is the curry we make when the fridge looks empty. Onions, a few spices, a can of tomatoes, coconut milk and chickpeas simmer into something rich and comforting, with spinach and lime stirred in at the end for freshness.</p><h2>Why you'll love this recipe</h2><ul><li>One pot, 35 minutes, start to finish.</li><li>Made from pantry staples you probably already have.</li><li>Naturally vegan, gluten-free and dairy-free — no swaps needed.</li><li>Freezes well, so it's ideal for batch cooking.</li></ul><h2>Ingredients overview</h2><ul><li><strong>Chickpeas:</strong> Canned keeps it quick. Rinse well for a cleaner flavour.</li><li><strong>Coconut milk:</strong> Full-fat gives the creamiest sauce; light works but is thinner.</li><li><strong>Curry powder:</strong> Mild or medium. Some blends contain wheat flour, so check the label says gluten-free.</li><li><strong>Spinach &amp; lime:</strong> Added at the end, so the spinach stays bright and the lime lifts the whole pot.</li></ul><h2>Substitutions and variations</h2><ul><li><strong>No coconut milk?</strong> Stir in 200 g unsweetened soy yogurt off the heat.</li><li><strong>Kale instead of spinach:</strong> Add it 3 minutes earlier so it softens.</li><li><strong>Heartier:</strong> Add 1 diced sweet potato with the tomatoes and simmer 10 minutes longer.</li><li><strong>More heat:</strong> Cook 1 chopped green chili with the garlic.</li><li><strong>Dried chickpeas:</strong> Use 250 g, soaked overnight and cooked until tender.</li></ul><h2>Step-by-step instructions</h2><h3>1. Build the base</h3><p>Cook the onion slowly with a pinch of salt until soft and golden — about 8 minutes. Add garlic and ginger, then toast the spices for just 30 seconds.</p><h3>2. Simmer</h3><p>Tomatoes go in first to cook down, then coconut milk and chickpeas. Leave it uncovered for 15 minutes so the sauce thickens.</p><h3>3. Finish and taste</h3><p>Wilt in the spinach, take the pan off the heat and add lime and salt. Taste, adjust, and let it rest for a few minutes.</p><h2>Tips for success</h2><ul><li>Don't rush the onions — gentle cooking builds most of the flavour.</li><li>Spices burn quickly; 30 seconds in the pan is enough.</li><li>The curry thickens as it stands, so loosen leftovers with a splash of water.</li></ul>",
+    "storage": {
+      "fridge": "Up to 4 days in an airtight container.",
+      "freezer": "Up to 3 months, without rice. Thaw overnight in the fridge.",
+      "reheat": "Gently on the stove with a splash of water until piping hot.",
+      "summary": "Leftovers keep for 4 days in the fridge or 3 months in the freezer."
+    },
+    "faq": [
+      {
+        "question": "Is chickpea curry healthy?",
+        "answer": "It's built on whole foods — chickpeas, tomatoes, spinach and spices — and is filling thanks to the fibre and plant protein in the chickpeas. Use light coconut milk for a lighter sauce."
+      },
+      {
+        "question": "Is this curry spicy?",
+        "answer": "It's mild as written. Add a green chili with the garlic or use a hot curry powder for more heat."
+      },
+      {
+        "question": "Is curry powder gluten-free?",
+        "answer": "Most pure spice blends are, but some add wheat flour. Choose one labelled gluten-free."
+      },
+      {
+        "question": "Can I freeze chickpea curry?",
+        "answer": "Yes, for up to 3 months. Freeze it without rice and thaw overnight in the fridge."
+      },
+      {
+        "question": "What do you serve with chickpea curry?",
+        "answer": "Basmati rice, quinoa or warm gluten-free flatbread all work well."
+      }
+    ],
+    "date_published": "2026-09-02",
+    "date_modified": "2026-10-18",
+    "popularity": 6
+  },
+  {
+    "slug": "gluten-free-banana-oat-pancakes",
+    "title": "Gluten-Free Banana Oat Pancakes",
+    "description": "Fluffy, naturally sweet pancakes made with certified gluten-free oats.",
+    "intro": "These gluten-free banana oat pancakes are blended in one jug and ready in 20 minutes. Ripe bananas sweeten them, so they need no added sugar.",
+    "image": {"alt": "Stack of gluten-free banana oat pancakes with sliced banana and maple syrup"},
+    "meal": "breakfast",
+    "diets": ["gluten-free", "vegetarian"],
+    "cuisine": "American",
+    "difficulty": "easy",
+    "prep_minutes": 5,
+    "cook_minutes": 15,
+    "servings": 2,
+    "ingredients": [
+      {"qty": 2.0, "item": "ripe bananas"},
+      {"qty": 100.0, "unit": "g", "item": "certified gluten-free rolled oats"},
+      {"qty": 2.0, "item": "eggs", "contains": ["egg"]},
+      {"qty": 120.0, "unit": "ml", "item": "milk", "contains": ["dairy"]},
+      {"qty": 1.0, "unit": "tsp", "item": "gluten-free baking powder"},
+      {"qty": 0.5, "unit": "tsp", "item": "ground cinnamon"},
+      {"item": "Pinch of salt"},
+      {"qty": 1.0, "unit": "tsp", "item": "butter", "note": "for the pan", "contains": ["dairy"]},
+      {"item": "Berries and maple syrup, to serve"}
+    ],
+    "steps": [
+      {"text": "Blend the bananas, oats, eggs, milk, baking powder, cinnamon and salt until smooth."},
+      {"text": "Let the batter rest so the oats thicken it slightly.", "timer_seconds": 300},
+      {"text": "Heat a non-stick pan over medium heat and add a little butter."},
+      {
+        "text": "Pour in 3 tablespoons of batter per pancake and cook until bubbles appear on top.",
+        "timer_seconds": 150
+      },
+      {"text": "Flip and cook the other side until golden.", "timer_seconds": 90},
+      {"text": "Serve warm with berries and maple syrup."}
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Use very ripe, spotty bananas for the sweetest pancakes.</li><li>Keep the heat at medium — oat batter browns faster than wheat batter.</li></ul>",
+    "storage": {
+      "fridge": "Up to 2 days, layered with baking paper.",
+      "freezer": "Up to 2 months.",
+      "reheat": "In a toaster or dry pan until warmed through."
+    },
+    "date_published": "2026-10-10",
+    "date_modified": "2026-10-10",
+    "popularity": 8
+  },
+  {
+    "slug": "mediterranean-quinoa-bowl",
+    "title": "Mediterranean Quinoa Bowl",
+    "description": "Lemony quinoa, crisp vegetables, chickpeas and crumbled feta.",
+    "intro": "This Mediterranean quinoa bowl packs crunchy vegetables, chickpeas and feta into a bright lemon-herb dressing. It's ready in 25 minutes and keeps well for packed lunches.",
+    "image": {"alt": "Mediterranean quinoa bowl with cucumber, cherry tomatoes, olives, chickpeas and feta"},
+    "meal": "lunch",
+    "diets": ["vegetarian", "gluten-free"],
+    "collections": ["healthy"],
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 4,
+    "ingredients": [
+      {"qty": 180.0, "unit": "g", "item": "quinoa", "note": "rinsed"},
+      {"qty": 360.0, "unit": "ml", "item": "water"},
+      {"qty": 240.0, "unit": "g", "item": "chickpeas", "note": "drained and rinsed (1 can)"},
+      {"qty": 1.0, "item": "cucumber", "note": "diced"},
+      {"qty": 200.0, "unit": "g", "item": "cherry tomatoes", "note": "halved"},
+      {"qty": 0.5, "item": "red onion", "note": "finely sliced"},
+      {"qty": 60.0, "unit": "g", "item": "kalamata olives"},
+      {"qty": 100.0, "unit": "g", "item": "feta", "note": "crumbled", "contains": ["dairy"]},
+      {"qty": 3.0, "unit": "tbsp", "item": "olive oil"},
+      {"qty": 2.0, "unit": "tbsp", "item": "lemon juice"},
+      {"qty": 1.0, "unit": "tsp", "item": "dried oregano"},
+      {"qty": 1.0, "item": "garlic clove", "note": "grated"},
+      {"item": "Fresh parsley, salt and pepper"}
+    ],
+    "steps": [
+      {"text": "Simmer the quinoa in the water, covered, until the water is absorbed.", "timer_seconds": 900},
+      {"text": "Take off the heat, leave covered for 5 minutes, then fluff with a fork."},
+      {"text": "Whisk the olive oil, lemon juice, oregano, garlic, salt and pepper."},
+      {"text": "Toss the quinoa with half the dressing."},
+      {"text": "Divide into bowls and top with chickpeas, cucumber, tomatoes, onion and olives."},
+      {"text": "Finish with feta, parsley and the rest of the dressing."}
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Rinse quinoa well to remove its bitter coating.</li><li>Keep the dressing separate if packing for lunch.</li></ul>",
+    "storage": {"fridge": "Up to 3 days, dressing separate."},
+    "date_published": "2026-09-20",
+    "date_modified": "2026-09-20",
+    "popularity": 9
+  },
+  {
+    "slug": "gluten-free-brownies",
+    "title": "Fudgy Gluten-Free Brownies",
+    "description": "Rich, chewy brownies made with almond flour instead of wheat.",
+    "intro": "These fudgy gluten-free brownies use almond flour for a rich, chewy middle and a crackly top. Nobody will guess they're gluten-free.",
+    "image": {"alt": "Fudgy gluten-free brownies cut into squares on baking paper"},
+    "meal": "dessert",
+    "diets": ["gluten-free", "vegetarian"],
+    "cuisine": "American",
+    "difficulty": "medium",
+    "prep_minutes": 15,
+    "cook_minutes": 30,
+    "servings": 16,
+    "yield_label": "squares",
+    "ingredients": [
+      {"qty": 115.0, "unit": "g", "item": "butter", "contains": ["dairy"]},
+      {"qty": 170.0, "unit": "g", "item": "dark chocolate", "note": "70%, chopped", "contains": ["dairy"]},
+      {"qty": 150.0, "unit": "g", "item": "caster sugar"},
+      {"qty": 2.0, "item": "eggs", "note": "room temperature", "contains": ["egg"]},
+      {"qty": 1.0, "unit": "tsp", "item": "vanilla extract"},
+      {"qty": 100.0, "unit": "g", "item": "almond flour"},
+      {"qty": 30.0, "unit": "g", "item": "cocoa powder"},
+      {"qty": 0.25, "unit": "tsp", "item": "salt"}
+    ],
+    "steps": [
+      {"text": "Heat the oven to 175°C (350°F) and line a 20 cm square tin with baking paper."},
+      {"text": "Melt the butter and chocolate together over low heat, then cool slightly."},
+      {"text": "Whisk in the sugar, then the eggs one at a time, then the vanilla, until glossy."},
+      {"text": "Fold in the almond flour, cocoa and salt until just combined."},
+      {
+        "text": "Spread into the tin and bake until the edges are set but the centre is still soft.",
+        "timer_seconds": 1680
+      },
+      {"text": "Cool completely in the tin before cutting into 16 squares.", "timer_seconds": 3600}
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Don't overbake: a slightly wobbly centre means a fudgy brownie.</li><li>Chill before cutting for clean edges.</li></ul>",
+    "storage": {"fridge": "Up to 5 days in an airtight box.", "freezer": "Up to 3 months, individually wrapped."},
+    "date_published": "2026-08-28",
+    "date_modified": "2026-10-01",
+    "popularity": 1
+  },
+  {
+    "slug": "vegan-red-lentil-soup",
+    "title": "Vegan Red Lentil Soup",
+    "description": "A warming, cumin-spiced soup finished with a squeeze of lemon.",
+    "intro": "This vegan red lentil soup is thick, warming and made in one pot in 40 minutes. Cumin and smoked paprika give it depth, and lemon keeps it bright.",
+    "image": {"alt": "Bowl of vegan red lentil soup with a lemon wedge and olive oil drizzle"},
+    "meal": "lunch",
+    "diets": ["vegan", "gluten-free", "dairy-free"],
+    "collections": ["healthy"],
+    "cuisine": "Turkish-inspired",
+    "difficulty": "easy",
+    "prep_minutes": 10,
+    "cook_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      {"qty": 2.0, "unit": "tbsp", "item": "olive oil"},
+      {"qty": 1.0, "item": "onion", "note": "chopped"},
+      {"qty": 2.0, "item": "carrots", "note": "diced"},
+      {"qty": 3.0, "item": "garlic cloves", "note": "minced"},
+      {"qty": 2.0, "unit": "tsp", "item": "ground cumin"},
+      {"qty": 1.0, "unit": "tsp", "item": "smoked paprika"},
+      {"qty": 250.0, "unit": "g", "item": "red lentils", "note": "rinsed"},
+      {"qty": 400.0, "unit": "g", "item": "chopped tomatoes", "note": "1 can"},
+      {"qty": 1.2, "unit": "l", "item": "vegetable stock", "note": "labelled gluten-free"},
+      {"qty": 1.0, "item": "lemon", "note": "juiced"},
+      {"item": "Salt, to taste"}
+    ],
+    "steps": [
+      {"text": "Heat the oil and soften the onion and carrots.", "timer_seconds": 480},
+      {"text": "Add the garlic, cumin and paprika and cook for 1 minute."},
+      {
+        "text": "Stir in the lentils, tomatoes and stock, bring to a boil, then simmer until the lentils collapse.",
+        "timer_seconds": 1200
+      },
+      {"text": "Blend about half the soup for a creamy texture with some body."},
+      {"text": "Season with lemon juice and salt and serve."}
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Rinse the lentils until the water runs clear.</li><li>Thin with extra stock if reheating — it thickens as it stands.</li></ul>",
+    "storage": {
+      "fridge": "Up to 4 days.",
+      "freezer": "Up to 3 months.",
+      "reheat": "On the stove, adding a splash of water."
+    },
+    "date_published": "2026-10-05",
+    "date_modified": "2026-10-05",
+    "popularity": 2
+  },
+  {
+    "slug": "roasted-vegetable-salad",
+    "title": "Roasted Vegetable Salad with Tahini",
+    "description": "Caramelised squash, cauliflower and chickpeas with a lemony tahini drizzle.",
+    "intro": "This roasted vegetable salad turns squash, cauliflower and chickpeas into a filling dinner. A lemony tahini dressing ties it together.",
+    "image": {"alt": "Roasted butternut squash, cauliflower and chickpeas over greens with tahini drizzle"},
+    "meal": "dinner",
+    "diets": ["vegan", "gluten-free"],
+    "collections": ["healthy"],
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "prep_minutes": 15,
+    "cook_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      {"qty": 500.0, "unit": "g", "item": "butternut squash", "note": "cubed"},
+      {"qty": 1.0, "item": "small cauliflower", "note": "in florets"},
+      {"qty": 240.0, "unit": "g", "item": "chickpeas", "note": "drained and patted dry (1 can)"},
+      {"qty": 1.0, "item": "red onion", "note": "in wedges"},
+      {"qty": 3.0, "unit": "tbsp", "item": "olive oil"},
+      {"qty": 1.0, "unit": "tsp", "item": "ground cumin"},
+      {"qty": 1.0, "unit": "tsp", "item": "smoked paprika"},
+      {"qty": 100.0, "unit": "g", "item": "rocket or baby spinach"},
+      {"qty": 3.0, "unit": "tbsp", "item": "tahini"},
+      {"qty": 2.0, "unit": "tbsp", "item": "lemon juice"},
+      {"qty": 1.0, "unit": "tbsp", "item": "maple syrup"},
+      {"qty": 3.0, "unit": "tbsp", "item": "water"},
+      {"qty": 2.0, "unit": "tbsp", "item": "pumpkin seeds"},
+      {"item": "Salt, to taste"}
+    ],
+    "steps": [
+      {"text": "Heat the oven to 220°C (425°F)."},
+      {
+        "text": "Toss the squash, cauliflower, chickpeas and onion with the oil, spices and salt on a large tray."
+      },
+      {"text": "Roast, turning halfway, until golden at the edges.", "timer_seconds": 1800},
+      {"text": "Whisk the tahini, lemon juice, maple syrup and water into a pourable dressing."},
+      {
+        "text": "Toss the warm vegetables with the greens, drizzle with dressing and scatter over the pumpkin seeds."
+      }
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Spread the vegetables out — crowded trays steam instead of roast.</li><li>Dry the chickpeas well so they crisp.</li></ul>",
+    "storage": {"fridge": "Roasted vegetables keep 3 days; add greens and dressing when serving."},
+    "date_published": "2026-09-14",
+    "date_modified": "2026-09-14",
+    "popularity": 7
+  },
+  {
+    "slug": "overnight-oats-berries",
+    "title": "Overnight Oats with Berries",
+    "description": "Five minutes of prep tonight, a ready breakfast tomorrow.",
+    "intro": "These overnight oats with berries take ten minutes to stir together and are ready when you wake up. They're vegan, and gluten-free when made with certified gluten-free oats.",
+    "image": {"alt": "Two jars of overnight oats topped with fresh berries"},
+    "meal": "breakfast",
+    "diets": ["vegan", "dairy-free"],
+    "diet_options": ["gluten-free"],
+    "collections": ["healthy"],
+    "cuisine": "International",
+    "difficulty": "easy",
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "extra_time": "overnight",
+    "servings": 2,
+    "ingredients": [
+      {
+        "qty": 100.0,
+        "unit": "g",
+        "item": "rolled oats",
+        "contains": ["gluten"],
+        "gf_swap": "Use certified gluten-free oats."
+      },
+      {"qty": 240.0, "unit": "ml", "item": "unsweetened almond milk"},
+      {"qty": 120.0, "unit": "g", "item": "plant-based yogurt"},
+      {"qty": 1.0, "unit": "tbsp", "item": "chia seeds"},
+      {"qty": 1.0, "unit": "tbsp", "item": "maple syrup"},
+      {"qty": 0.5, "unit": "tsp", "item": "vanilla extract"},
+      {"qty": 150.0, "unit": "g", "item": "mixed berries"}
+    ],
+    "steps": [
+      {"text": "Stir the oats, almond milk, yogurt, chia seeds, maple syrup and vanilla together."},
+      {"text": "Divide between two jars, cover and refrigerate overnight, or for at least 6 hours."},
+      {"text": "Loosen with a splash of milk if needed and top with berries."}
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Make 3 days' worth at once — they keep well.</li></ul>",
+    "storage": {"fridge": "Up to 3 days, berries added on the day."},
+    "date_published": "2026-09-08",
+    "date_modified": "2026-09-08",
+    "popularity": 3
+  },
+  {
+    "slug": "high-protein-tofu-bowl",
+    "title": "High-Protein Crispy Tofu Bowl",
+    "description": "Golden tofu, brown rice, edamame and a ginger-sesame sauce.",
+    "intro": "This high-protein crispy tofu bowl stacks golden tofu, edamame and brown rice with a punchy ginger-sesame sauce. It's a 30-minute dinner that keeps you full.",
+    "image": {"alt": "Crispy tofu cubes over brown rice with edamame, carrot and cucumber"},
+    "meal": "dinner",
+    "diets": ["vegan", "high-protein", "dairy-free"],
+    "collections": ["healthy"],
+    "cuisine": "Asian-inspired",
+    "difficulty": "medium",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      {"qty": 400.0, "unit": "g", "item": "extra-firm tofu", "note": "pressed and cubed"},
+      {"qty": 1.0, "unit": "tbsp", "item": "cornflour"},
+      {"qty": 2.0, "unit": "tbsp", "item": "neutral oil"},
+      {"qty": 300.0, "unit": "g", "item": "cooked brown rice"},
+      {"qty": 150.0, "unit": "g", "item": "shelled edamame"},
+      {"qty": 1.0, "item": "carrot", "note": "ribboned"},
+      {"qty": 0.5, "item": "cucumber", "note": "sliced"},
+      {"qty": 3.0, "unit": "tbsp", "item": "soy sauce", "contains": ["gluten"]},
+      {"qty": 1.0, "unit": "tbsp", "item": "toasted sesame oil"},
+      {"qty": 1.0, "unit": "tbsp", "item": "rice vinegar"},
+      {"qty": 1.0, "unit": "tbsp", "item": "maple syrup"},
+      {"qty": 1.0, "unit": "tsp", "item": "fresh ginger", "note": "grated"},
+      {"item": "Sesame seeds and spring onion, to serve"}
+    ],
+    "steps": [
+      {"text": "Press the tofu between kitchen towels under a heavy pan.", "timer_seconds": 600},
+      {"text": "Cut into cubes and toss with the cornflour."},
+      {
+        "text": "Fry in the oil over medium-high heat, turning, until crisp on all sides.",
+        "timer_seconds": 720
+      },
+      {"text": "Whisk the soy sauce, sesame oil, vinegar, maple syrup and ginger."},
+      {"text": "Cook the edamame in boiling water.", "timer_seconds": 180},
+      {
+        "text": "Build bowls with rice, tofu, edamame, carrot and cucumber, then spoon over the sauce and finish with sesame and spring onion."
+      }
+    ],
+    "article_html": "<h2>Tips for success</h2><ul><li>Pressing the tofu is what makes it crisp — don't skip it.</li></ul>",
+    "storage": {"fridge": "Up to 3 days; tofu softens but stays tasty."},
+    "date_published": "2026-09-26",
+    "date_modified": "2026-09-26",
+    "popularity": 4
+  },
+  {
+    "slug": "healthy-avocado-toast",
+    "title": "Healthy Avocado Toast",
+    "description": "Creamy avocado, chili flakes and lime on toasted sourdough.",
+    "intro": "This healthy avocado toast with chili and lime takes 10 minutes and beats any café version. Use gluten-free bread to make it gluten-free.",
+    "image": {"alt": "Avocado toast with chili flakes, lime and coriander on sourdough"},
+    "meal": "breakfast",
+    "diets": ["vegan"],
+    "diet_options": ["gluten-free"],
+    "collections": ["healthy"],
+    "cuisine": "International",
+    "difficulty": "easy",
+    "prep_minutes": 5,
+    "cook_minutes": 5,
+    "servings": 2,
+    "ingredients": [
+      {
+        "qty": 2.0,
+        "item": "slices sourdough bread",
+        "contains": ["gluten"],
+        "gf_swap": "Use gluten-free bread."
+      },
+      {"qty": 1.0, "item": "ripe avocado"},
+      {"qty": 0.5, "item": "lime", "note": "juiced"},
+      {"qty": 0.25, "unit": "tsp", "item": "chili flakes"},
+      {"qty": 1.0, "unit": "tbsp", "item": "olive oil"},
+      {"item": "Salt, pepper and fresh coriander"}
+    ],
+    "steps": [
+      {"text": "Toast the bread until golden."},
+      {"text": "Mash the avocado with the lime juice, salt and pepper."},
+      {"text": "Spread over the toast and finish with chili flakes, olive oil and coriander."}
+    ],
+    "article_html": "<h2>About this recipe</h2><p>tetsq12</p>",
+    "date_published": "2026-10-12",
+    "date_modified": "2026-10-24",
+    "popularity": 5
+  },
+  {
+    "slug": "peanut-butter-energy-bites",
+    "title": "Peanut Butter Energy Bites",
+    "description": "No-bake bites with oats, peanut butter, dates and maple syrup.",
+    "intro": "These peanut butter energy bites are a no-bake snack you can make in 15 minutes. They're vegan, and gluten-free with certified gluten-free oats.",
+    "image": {"alt": "Peanut butter energy bites on a plate with a few chocolate chips"},
+    "meal": "snack",
+    "diets": ["vegan"],
+    "diet_options": ["gluten-free"],
+    "cuisine": "International",
+    "difficulty": "easy",
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "servings": 16,
+    "yield_label": "bites",
+    "ingredients": [
+      {"qty": 6.0, "item": "Medjool dates", "note": "pitted"},
+      {
+        "qty": 100.0,
+        "unit": "g",
+        "item": "rolled oats",
+        "contains": ["gluten"],
+        "gf_swap": "Use certified gluten-free oats."
+      },
+      {"qty": 120.0, "unit": "g", "item": "natural peanut butter"},
+      {"qty": 2.0, "unit": "tbsp", "item": "maple syrup"},
+      {"qty": 2.0, "unit": "tbsp", "item": "ground flaxseed"},
+      {"qty": 40.0, "unit": "g", "item": "dairy-free dark chocolate chips"},
+      {"item": "Pinch of salt"}
+    ],
+    "steps": [
+      {"text": "Blitz the dates in a food processor until they form a paste."},
+      {
+        "text": "Add the oats, peanut butter, maple syrup, flaxseed and salt and pulse until it holds together."
+      },
+      {"text": "Stir in the chocolate chips and roll into 16 balls."},
+      {"text": "Chill to firm up before eating.", "timer_seconds": 1200}
+    ],
+    "storage": {"fridge": "Up to 1 week.", "freezer": "Up to 3 months."},
+    "date_published": "2026-09-30",
+    "date_modified": "2026-09-30",
+    "popularity": 10
+  }
+]
