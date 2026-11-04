@@ -1,1 +1,0 @@
-"""Sage & Grain content backend."""
